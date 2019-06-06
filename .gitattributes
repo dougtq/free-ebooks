@@ -1,3 +1,4 @@
 Calculus/Books*.pdf filter=lfs diff=lfs merge=lfs -text
 Calculus/Tables*.pdf filter=lfs diff=lfs merge=lfs -text
 Discrete/[[:space:]]Mathematics/*.pdf filter=lfs diff=lfs merge=lfs -text
+Software/[[:space:]]Engineering/*.pdf filter=lfs diff=lfs merge=lfs -text
