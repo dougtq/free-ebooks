@@ -14,4 +14,4 @@ The folders are all in English, to make things easy.
 
 As the name of the repo implies, all the ebooks are free to download, read, share and so on.
 
-However, it's strongly recommended not to use them for commercial purposes.
+However, it's **strongly** recommended not to use them for commercial purposes.
